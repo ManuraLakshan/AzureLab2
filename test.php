@@ -1,1 +1,1 @@
-<?php ecgo "hello";?>
+<?php echo "hello";?>
